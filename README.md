@@ -9,7 +9,7 @@
 
 - Hi, I'm Simran Bhatia, a Compuer Science Engineer from India. **Passionate about writting code.**
 
-- 🌱 I’m currently learning **Hacking and Cyber Security**
+- 🌱 I’m learning **Hacking and Cyber Security**
 
 - 🔭 I’m currently working on **Python and Hacking**
 
