@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simran Bhatia</h1>
-<h3 align="center">Student</h3>
+<h1 align="center">Hi there 👋, I'm Simran Bhatia</h1>
+<h3 align="center">Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simran333725&label=Profile%20views&color=0e75b6&style=flat" alt="simran333725" /> </p>
 
@@ -7,17 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/simran333725" target="blank"><img src="https://img.shields.io/twitter/follow/simran333725?logo=twitter&style=for-the-badge" alt="simran333725" /></a> </p>
 
-- 🔭 I’m currently working on **Hacking and Cyber Security**
+- Hi, I'm Simran Bhatia, a Compuer Science Engineering Student from India. **Passionate about writting code.**
 
-- 🌱 I’m currently learning about **Hacking and Python**
+- 🌱 I’m currently learning **Hacking and Cyber Security**
 
-- 📫 Reach me at **simran333725@gmail.com
+- 🔭 I’m currently working on **Python and Hacking**
 
--    Pronouns: She/Her
+- 👨‍💻 Pronouns : **She/Her**
+
+- 📫 How to reach me **simran333725@gmail.com**
+
+- ⚡ Fun fact **I love listening music.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simran333725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simran333725" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsimran-kaur-5a3016215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsimran-kaur-5a3016215" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsimran-kaur-5a3016215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsimran-kaur-5a3016215" height="30" width="40" /></a>
 <a href="https://instagram.com/simran333725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simran333725" height="30" width="40" /></a>
 </p>
 
@@ -29,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simran333725&show_icons=true&locale=en" alt="simran333725" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simran333725&" alt="simran333725" /></p>
-
 
