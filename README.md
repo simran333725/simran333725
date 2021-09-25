@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/simran333725" target="blank"><img src="https://img.shields.io/twitter/follow/simran333725?logo=twitter&style=for-the-badge" alt="simran333725" /></a> </p>
 
-- Hi, I'm Simran Bhatia, a Compuer Science Engineering Student from India. **Passionate about writting code.**
+- Hi, I'm Simran Bhatia, a Compuer Science Engineer from India. **Passionate about writting code.**
 
 - 🌱 I’m currently learning **Hacking and Cyber Security**
 
