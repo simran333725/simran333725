@@ -11,8 +11,9 @@
 
 - 🌱 I’m currently learning about **Hacking and Python**
 
-- 📫 How to reach me **simran333725@gmail.com , Twitter - @simran333725**
+- 📫 Reach me at **simran333725@gmail.com
 
+-    Pronouns: She/Her
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simran333725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simran333725" height="30" width="40" /></a>
