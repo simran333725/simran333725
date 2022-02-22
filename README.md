@@ -9,9 +9,9 @@
 
 - Hi, I'm Simran Bhatia, a Computer Science Engineer from India. **Passionate about writting code.**
 
-- 🌱 I’m learning **Hacking and Cyber Security**
+- 🌱 I’m learning **Data Science**
 
-- 🔭 I’m currently working on **Python and Hacking**
+- 🔭 I’m currently working on **Python and Data Science**
 
 - 👨‍💻 Pronouns : **She/Her**
 
